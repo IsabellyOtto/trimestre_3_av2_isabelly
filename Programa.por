@@ -1,10 +1,7 @@
 programa {
   funcao inicio() { 
-     
-  }
-
-
-
+    menuPrincipal()
+}
 funcao menuPrincipal(){ 
       escreva("==============================================\n")
 			escreva("       BEM-VINDO A NOSSA LOJA VIRTUAL\n")
@@ -18,9 +15,6 @@ funcao menuPrincipal(){
 			escreva("Escolha uma opcao: ")
 
   }
-
-
-
 
 }
 
